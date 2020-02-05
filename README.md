@@ -15,8 +15,11 @@ This project consists of a pipelined MIPS processor. The design implements branc
 
 *More detail writing uploaded in the future*
 
-Sources: 
 
+
+
+
+Works Cited:
 *"Digital Design and Computer Architecture" by David M. Harris and Sarah L. Harris*
 
 
